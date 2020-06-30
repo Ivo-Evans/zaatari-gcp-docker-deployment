@@ -1,5 +1,7 @@
 # Zaatari Radio readme
 
+This is a copy of the repository found [here](https://github.com/fac19/Zaatari-Radio). This version is deployed on GCP.
+
 # HumaniBase (previously Zaatari Radio)
 
 [![Build Status](https://travis-ci.com/fac19/Zaatari-Radio.svg?branch=master)](https://travis-ci.com/fac19/Zaatari-Radio)
